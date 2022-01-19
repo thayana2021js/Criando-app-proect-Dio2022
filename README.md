@@ -13,5 +13,5 @@ GITHUB: https://github.com/thayana2021js
 
 LINKEDIN: https://www.linkedin.com/in/thayana-fortunato/
 
-E-MAIL: athayana.thayana@gmail.com
+E-MAIL: athay.thayana@gmail.com
 
